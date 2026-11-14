@@ -1,0 +1,6 @@
+{
+    "version":  "1.77.0",
+    "build":  111,
+    "url":  "https://raw.githubusercontent.com/MAXimator70/maxbike-download/main/MaxBike.apk",
+    "notes":  "- Krafttraining: Sätze zählen je Übung wieder ab 1 – „Übung 2: Satz 1 fertig“, Schild „Übung 2“, Satzliste nummeriert; lange auf den Übungsnamen in der Satzliste drücken: Übung ändern oder samt Sätzen entfernen\n- Übungen verwalten: neue Seite (Einstellungen › Aktivität › Übungen und im Übungsfenster) – wischen entfernt mit Rückfrage, lange drücken wählt mehrere aus; Standardübungen werden nur ausgeblendet; im Übungsfenster lange auf eine Übung drücken entfernt sie\n- Auto Pause nach: 3, 5, 10, 15, 30 Sekunden oder 1 Minute; Überschrift der Auswahl nicht mehr angeschnitten\n- Pulsbereich: keine wilden Querlinien mehr beim Verschieben oder Zoomen"
+}
